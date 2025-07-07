@@ -2,6 +2,7 @@
 #SingleInstance Force
 #Warn
 
+
 ; AutoHotkey Script: Buggy Seat Toggle – Dune: Awakening
 ; Author: dragnmastr85 (Adam)
 
@@ -10,6 +11,7 @@
 ; and shows a 3-second tooltip at the cursor.
 
 ; Version: 1.1  ·  2025-07-07  ·  Requires AutoHotkey v2
+
 
 
 ; USER SETTINGS
